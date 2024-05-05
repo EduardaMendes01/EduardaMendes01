@@ -17,8 +17,8 @@
 </div>
 
 <div><br/>
-  <a href="https://twitter.com/Dudsbytes"><img align="center" alt="Twitter-logo" height="25" width="80" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="eduardamendes0100@gmail.com"><img align="center" alt="Gmail-logo" height="25" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/Dudsbytes" target="_blank" rel="external"><img align="center" alt="Twitter-logo" height="25" width="80" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="eduardamendes0100@gmail.com" target="_blank" rel="external"><img align="center" alt="Gmail-logo" height="25" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 <!--
 
