@@ -1,7 +1,7 @@
 ### Hello, I'm Eduarda Mendes 👩🏽‍💻
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EduardaMendes01&theme=monokai&show_icons=true&hide_rank=false&rank_icon=github"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaMendes01&theme=monokai&hide_progress=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaMendes01&theme=monokai&hide_progress=true"/>
 </div>
 
 <div style="display: inline_block"><br/>
