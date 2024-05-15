@@ -15,7 +15,3 @@
   <img align="center" alt="eduarda-gimp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg"/>
   <img align="center" alt="eduarda-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 </div>
-
-<div><br/>
-  <a href="https://twitter.com/Dudsbytes" target="_blank"><img align="center" alt="Twitter-logo" height="25" width="80" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</div>
