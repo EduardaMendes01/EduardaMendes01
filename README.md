@@ -1,4 +1,4 @@
-### Hello, I'm Eduarda Mendes, a Brazilian 🇧🇷 passionate about technology and constantly learning. Welcome to my profile! I hope you enjoy it! 😊✨
+### Hello, I'm Eduarda Mendes, a Brazilian 🇧🇷 passionate about technology and constantly learning. Welcome to my profile!😊✨
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EduardaMendes01&theme=monokai&show_icons=true&hide_rank=false&rank_icon=github"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaMendes01&theme=monokai&hide_progress=true"/>
